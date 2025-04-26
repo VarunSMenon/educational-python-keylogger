@@ -48,7 +48,3 @@ The logs are encrypted before saving to disk to simulate realistic malware behav
 - **Only for learning, analysis, and defensive security research.**
 - Violations can lead to serious legal consequences.
 
----
-
-## 📚 License
-This project is licensed under the [MIT License](LICENSE).
